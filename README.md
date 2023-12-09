@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is sabari a newbie in the field. Studying to be a web developer.</h2>
+<h2 align="left">Hi 👋! My name is sabari a newbie in the field..</h2>
 
 ###
 
