@@ -53,6 +53,5 @@
 
 ###
 
-<p align="left">Hello World!! supremacy :)</p>
 
 ###
